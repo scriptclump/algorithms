@@ -3,8 +3,14 @@
 ## Patterns
 
 - Pyramid
-	- Simple
-	- 180 degree
+	- Simple pyramid
+    - 180 degree pyramid
+    - Triangle pyramid
+    - Number pyramid
+    - Number staircase
+    - Alphabet pyramid
+    - Alphabet staircase
+
 
 ## Sorting
 
