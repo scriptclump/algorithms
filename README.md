@@ -14,5 +14,7 @@
 
 ## Sorting
 
-- Bubble Sort
-
+- Selection sort
+- Bubble sort
+- Recursive bubble sort
+- Insertion sort
