@@ -18,3 +18,4 @@
 - Bubble sort
 - Recursive bubble sort
 - Insertion sort
+- Recursive insertion sort
