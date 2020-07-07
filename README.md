@@ -19,3 +19,5 @@
 - Recursive bubble sort
 - Insertion sort
 - Recursive insertion sort
+- Merge sort
+- Recursive merge sort
