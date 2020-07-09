@@ -21,3 +21,5 @@
 - Recursive insertion sort
 - Merge sort
 - Recursive merge sort
+- Quick sort
+- Recursive quick sort
