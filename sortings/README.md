@@ -9,3 +9,4 @@
 - Recursive merge sort
 - Quick sort
 - Recursive quick sort
+- Heap sort
