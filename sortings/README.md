@@ -10,3 +10,4 @@
 - Quick sort
 - Recursive quick sort
 - Heap sort
+- Counting sort
