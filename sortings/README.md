@@ -11,3 +11,4 @@
 - Recursive quick sort
 - Heap sort
 - Counting sort
+- Bucket sort
