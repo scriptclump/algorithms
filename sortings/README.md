@@ -12,3 +12,4 @@
 - Heap sort
 - Counting sort
 - Bucket sort
+- Shell sort
