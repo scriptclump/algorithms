@@ -13,3 +13,4 @@
 - Counting sort
 - Bucket sort
 - Shell sort
+- Tim sort
