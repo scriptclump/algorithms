@@ -14,3 +14,4 @@
 - Bucket sort
 - Shell sort
 - Tim sort
+- Comb sort
