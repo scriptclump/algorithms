@@ -15,3 +15,4 @@
 - Shell sort
 - Tim sort
 - Comb sort
+- Pigeonhole sort
