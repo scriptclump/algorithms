@@ -16,3 +16,4 @@
 - Tim sort
 - Comb sort
 - Pigeonhole sort
+- Cycle sort
