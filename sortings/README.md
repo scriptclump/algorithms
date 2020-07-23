@@ -17,3 +17,4 @@
 - Comb sort
 - Pigeonhole sort
 - Cycle sort
+- Cocktail sort
