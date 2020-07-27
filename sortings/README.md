@@ -18,3 +18,4 @@
 - Pigeonhole sort
 - Cycle sort
 - Cocktail sort
+- Bitonic Sort
