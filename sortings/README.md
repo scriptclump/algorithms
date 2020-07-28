@@ -19,3 +19,4 @@
 - Cycle sort
 - Cocktail sort
 - Bitonic Sort
+- Binary insertion sort
