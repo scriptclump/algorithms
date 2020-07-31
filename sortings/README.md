@@ -21,3 +21,4 @@
 - Bitonic Sort
 - Binary insertion sort
 - Bogo sort permutation
+- Gnome sort
