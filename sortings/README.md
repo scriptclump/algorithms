@@ -22,3 +22,4 @@
 - Binary insertion sort
 - Bogo sort permutation
 - Gnome sort
+- Sootage sort
